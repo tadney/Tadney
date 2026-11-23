@@ -1,59 +1,178 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=700&color=00FF41&center=true&vCenter=true&width=750&lines= TADNEY.exe+%7C+SYSTEM+ONLINE;Initializing+Developer+Profile...;Building+%7C+Breaking+%7C+Learning;Welcome+to+my+digital+world." />
+<!-- GLITCH HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=00ff41&height=150&section=header&text=TADNEY&fontSize=60&fontColor=000000&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SYSTEM%20BREACHED&fontSize=55&color=0:000000,50:101020,100:00FFFF&stroke=00FFFF&fontColor=00FFFF&animation=twinkling&desc=WELCOME%20TO%20MY%20DIGITAL%20WORLD&descAlignY=75&descSize=15"/>
 
-`[ DEVELOPER ]` ` [ LINUX EXPLORER ]` ` [ TECH ENTHUSIAST ]`
+<br>
+
+<!-- TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=1800&pause=500&color=00FFFF&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+SYSTEM...;%3E+ACCESS+GRANTED;%3E+HEY%2C+I'M+A+DEVELOPER;%3E+ENTERING+THE+DIGITAL+WORLD;%3E+CODE.+HACK.+CREATE." />
+
+<br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FFFF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ACCESS-GRANTED-8A2BE2?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-00FFFF?style=for-the-badge&labelColor=000000"/>
+
+<br><br>
+
+`[ DEVELOPER ]` ` [ PROGRAMMER ]` ` [ TECH ENTHUSIAST ]`
 
 </div>
 
-## 🖥️ SYSTEM TERMINAL
+---
 
-```bash
-root@tadney:~$ whoami
+# `01 // IDENTITY`
 
-> Name: Tadney
-> Role: Aspiring Developer
-> OS: Linux / Windows
-> Interests: Programming, Cybersecurity, Networking
-> Mission: Learn. Build. Improve.
-
-root@tadney:~$ echo "System Online"
-System Online _
+```text
+╔══════════════════════════════════════╗
+║          PORTFOLIO         ║
+╠══════════════════════════════════════╣
+║ USER     : Tadney            ║
+║ STATUS   : LEARNING & BUILDING       ║
+║ INTEREST : DEVELOPMENT               ║
+║ MODE     : ALWAYS ONLINE             ║
+╚══════════════════════════════════════╝
 ```
 
-## ⚡ TECH ARSENAL
+<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,kali,windows,cpp,python,html,css,js,git,github,vscode&theme=dark"/>
-</p>
+- 💻 Exploring the world of programming.
+- 🐧 Learning Linux and cybersecurity.
+- ⚡ Building interesting digital projects.
+- 🧠 Always experimenting with new technologies.
+- 🚀 Turning ideas into reality.
 
-## 📊 SYSTEM STATISTICS
+<br clear="right"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tadney&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadney&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="170"/>
-</p>
+---
 
-## 🐍 CONTRIBUTION MATRIX
+# `02 // TERMINAL ACCESS`
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/tadney/tadney/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
+```bash
+┌──(root㉿developer)-[~]
+└─$ sudo ./initialize.sh
 
-## 🌐 CONNECT
+[+] Booting developer environment...
+[+] Loading programming modules...
+[+] Connecting to GitHub...
+[+] Initializing creativity...
+[+] Loading new ideas...
 
-<p align="center">
-<a href="https://github.com/tadney">
-<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
+[SUCCESS] SYSTEM READY.
+
+root@developer:~# echo "Building the future."
+Building the future.
+
+root@developer:~# _
+```
+
+---
+
+# `03 // TECH ARSENAL`
 
 <div align="center">
 
-### `> END OF TRANSMISSION`
+### LANGUAGES
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp&theme=dark"/>
+
+### TOOLS & ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,bash&theme=dark"/>
+
+</div>
+
+---
+
+# `04 // GITHUB STATISTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00FFFF&icon_color=8A2BE2&text_color=FFFFFF&theme=transparent"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00FFFF&text_color=FFFFFF&theme=transparent"/>
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=050505&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888"/>
+
+</div>
+
+---
+
+# `05 // ACTIVITY MONITOR`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=00FFFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# `06 // CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# `07 // PROJECT DATABASE`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/ACCESS%20PROJECT%20DATABASE-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
+</a>
+
+<br><br>
+
+Explore my repositories to discover my experiments, projects and creations.
+
+</div>
+
+---
+
+# `08 // RANDOM DEVELOPER TRANSMISSION`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+---
+
+# `09 // NETWORK CONNECTION`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FFFF"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM%20VISITORS&color=00FFFF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:101020,100:8A2BE2&height=130&section=footer&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING.;SYSTEM+SHUTTING+DOWN...;SEE+YOU+IN+THE+NEXT+COMMIT."/>
+
+### `01010100 01001000 01000101 00100000 01000101 01001110 01000100`
+
+**END OF TRANSMISSION.** ⚡
 
 </div>
