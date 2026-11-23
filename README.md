@@ -107,7 +107,7 @@ root@developer:~# _
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=00FFFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tadney&bg_color=050505&color=00FFFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
