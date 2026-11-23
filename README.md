@@ -2,7 +2,7 @@
 
 <!-- GLITCH HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SYSTEM%20BREACHED&fontSize=55&color=0:000000,50:101020,100:00FFFF&stroke=00FFFF&fontColor=00FFFF&animation=twinkling&desc=WELCOME%20TO%20MY%20DIGITAL%20WORLD&descAlignY=75&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=TADNEY%20PATIL&fontSize=55&color=0:000000,50:101020,100:00FFFF&stroke=00FFFF&fontColor=00FFFF&animation=twinkling&desc=WELCOME%20TO%20MY%20DIGITAL%20WORLD&descAlignY=75&descSize=15"/>
 
 <br>
 
